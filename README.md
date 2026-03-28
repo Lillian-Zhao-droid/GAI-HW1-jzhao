@@ -20,7 +20,9 @@ For this assignment, I used the following Git steps:
 
 ## Commit Summary
 
+-`Update README with video link` -`5de2847 Add manually revised final version` -`87d13a6 Add assistant-created draft` -`8280ab3 Add assistant-created draft` -`2f71cd8 Initial repository setup`
+
 ## 30–90 second screen recording
 
 Unlisted YouTube link here:
-[Video Link](PASTE_YOUR_LINK_HERE)
+[Video Link](https://youtu.be/JRy5LztDcmc)
